@@ -7,7 +7,7 @@ Custom built NFT Smart Contract, Deploying and Minting my specified png to the E
 -  Eth Wallet address.
 -  ^ Highly Recommend Ropsten Test Net & a Fake Ethereum to test. -> https://fauceth.komputing.org/ you can request some test Eth here.
 -  NFT png or jpeg + metadata (i.e. change nft-metadata.json).
--  ^ Add both of these files into Pinata Cloud ( a pinning service that allows users to host files on the IPFS network).
+-  ^ Add both of these files into Pinata Cloud ( a pinning service that allows users to host files on the IPFS network for free).
 
 Happy Minting!
 
