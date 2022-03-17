@@ -1,24 +1,3 @@
-// require("dotenv").config()
-// const API_URL = process.env.API_URL
-// const { createAlchemyWeb3 } = require("@alch/alchemy-web3")
-// const web3 = createAlchemyWeb3(API_URL)
-// //parses contract ABI (Application Binary Interface) -> the interface to interact with our smart contract. 
-// const contract = require("../artifacts/contracts/MyNFT.sol/MyNFT.json")
-
-// //this prints ABI to console if we want to see it 
-// console.log(JSON.stringify(contract.abi))
-
-
-// //TODO -> this is how to run this file to check ABI: 
-// // node scripts/mint-nft.js
-// // MORE INFO ON ABI JSON AND PARAMS https://docs.alchemy.com/alchemy/guides/eth_getlogs#what-are-ab-is
-
-
-// const contractAddress = 
-
-// const nftContract = new web3.eth.Contract(contract.abi, contractAddress)
-
-
 require("dotenv").config()
 const API_URL = process.env.API_URL
 const PUBLIC_KEY = process.env.PUBLIC_KEY
@@ -69,7 +48,7 @@ async function mintNFT(tokenURI) {
       console.log(" Promise failed:", err)
     })
 }
-
+//call the function & mint as many NFTs as your heart desires <3
 mintNFT(
     "https://gateway.pinata.cloud/ipfs/Qmc2rGgq6hSwccczU9W3x61C5noE3Ek1HroAR2VJWJmPFC"
   )
