@@ -2,7 +2,11 @@
 
 Custom built NFT Smart Contract, Deploying and Minting my specified png to the Ethereum Blockchain.
 
-Need to plug in your own Public and Private API Keys from Alchemy as well as your designated Eth Wallet.
+# What you will need to change
+- Need to plug in your own Public and Private API Keys from Alchemy.
+-  Eth Wallet address.
+-  NFT png or jpeg + metadata (i.e. change nft-metadata.json)
+-  ^ Add both of these files into Pinata Cloud ( a pinning service that allows users to host files on the IPFS network. )
 
 Happy Minting!
 
