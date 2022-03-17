@@ -6,4 +6,4 @@ Need to plug in your own Public and Private API Keys from Alchemy as well as you
 
 Happy Minting!
 
-All credit to the Ethereum Developers Documentation on the Ethereum Website. Also Alchemy making Blockchain API seamless <3
+~ All credit to the Ethereum Developers Documentation on the Ethereum Website. Also Alchemy making Blockchain API seamless <3 ~
