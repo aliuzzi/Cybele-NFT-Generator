@@ -1,4 +1,4 @@
-# NFT Generator! This is the entire process to mint NFT to the Blockchain. Named Cybele, as it will be used to generate thousands of goddesses' NFTs.
+# This is the entire process to mint your NFT to the Blockchain. Named Cybele, as it will be used to generate thousands of goddesses' NFTs.
 
 Custom built NFT Smart Contract, Deploying and Minting my specified png to the Ethereum Blockchain.
 
